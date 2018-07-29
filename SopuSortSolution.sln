@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopuSortWeb", "WebApplication1\TopuSortWeb.csproj", "{FD561149-C55D-41AA-8CC7-CE62F485EB21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopuSortService", "WcfService1\TopuSortService.csproj", "{E5072185-9384-4AE7-B768-126DCDAE32E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD561149-C55D-41AA-8CC7-CE62F485EB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD561149-C55D-41AA-8CC7-CE62F485EB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD561149-C55D-41AA-8CC7-CE62F485EB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD561149-C55D-41AA-8CC7-CE62F485EB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5072185-9384-4AE7-B768-126DCDAE32E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5072185-9384-4AE7-B768-126DCDAE32E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5072185-9384-4AE7-B768-126DCDAE32E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5072185-9384-4AE7-B768-126DCDAE32E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52FB3DD-DD29-45D1-87BD-6FD1AA61ED75}
+	EndGlobalSection
+EndGlobal
